@@ -1,7 +1,7 @@
 A blog/book series taking readers from GPU fundamentals to running LLMs across multi-node clusters. Focus: NVIDIA GPUs, CUDA programming, practical expertise. 
 
 | #   | Title                            | Focus                                                                                |
-| --- | ----------------------------- |------------------------------------------------------------------———- |
+| --- | ----------------------------- |------------------------------------------------------------------- |
 | 1   | Inside the GPU              | NVIDIA architecture deep dive; SM, warp, memory hierarchy; brief AMD/TPU comparison |
 | 2   | Your First CUDA Kernels  | Thread model, vec add, matmul from scratch                  |
 | 3   | GPU Memory: The Real Bottleneck  | HBM, shared memory, coalescing, bank conflicts |
